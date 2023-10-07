@@ -7,7 +7,7 @@ function swapTheme(){
 	app.classList.toggle("night");
 
 	button.classList.toggle("button-day");
-	button.classList.toggle("button-night");
+  button.classList.toggle("button-night");
 }
    
     const swapButton = document.getElementById("swap");
